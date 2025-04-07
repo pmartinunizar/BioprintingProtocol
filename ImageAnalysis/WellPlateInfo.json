@@ -1,0 +1,107 @@
+{
+    "Thermo Fisher": {
+        "6": {
+            "Diameter": [],
+            "Height": [],
+            "Center Offset": [],
+            "Material": []
+        },
+        "12": {
+            "Diameter": [],
+            "Height": [],
+            "Center Offset": [],
+            "Material": []
+        },
+        "24": {
+            "Diameter": [],
+            "Height": [],
+            "Center Offset": [],
+            "Material": []
+        },
+        "48": {
+            "Diameter": 12.0,
+            "Height": 15.6,
+            "Center Offset": 13.5,
+            "Material": "Polystyrene"
+        },
+        "96": {
+            "Diameter": [],
+            "Height": [],
+            "Center Offset": [],
+            "Material": []
+        }
+    },
+    "VWR": {
+        "6": {
+            "Diameter": 34.7,
+            "Height": 17.2,
+            "Center Offset": 39.04,
+            "Material": "General polystyrene"
+        },
+        "12": {
+            "Diameter": 22.21,
+            "Height": 17.27,
+            "Center Offset": 26.1,
+            "Material": "General polystyrene"
+        },
+        "24": {
+            "Diameter": 15.7,
+            "Height": 17.2,
+            "Center Offset": 19.2,
+            "Material": "General polystyrene"
+        },
+        "48": {
+            "Diameter": 10.3,
+            "Height": 17.07,
+            "Center Offset": 13.05,
+            "Material": "General polystyrene"
+        },
+        "96": {
+            "Diameter": 6.42,
+            "Height": 11,
+            "Center Offset": 9,
+            "Material": "General polystyrene"
+        }
+    },
+    "GreinerCellstar": {
+        "6": {
+            "Diameter": 35.58,
+            "Height": 16.5,
+            "Center Offset": 39.0,
+            "Material": "Polystyrene"
+        },
+        "12": {
+            "Diameter": 22.20,
+            "Height": 16.5,
+            "Center Offset": 26.0,
+            "Material": "Polystyrene"
+        },
+        "24": {
+            "Diameter": 15.7,
+            "Height": 16.5,
+            "Center Offset": 19.5,
+            "Material": "Polystyrene"
+        },
+        "48": {
+            "Diameter": 11.37,
+            "Height": 16.5,
+            "Center Offset": 13,
+            "Material": "Polystyrene"
+        },
+        "96": {
+            "Diameter": 6.58,
+            "Height": 10.9,
+            "Center Offset": 9.0,
+            "Material": "Polystyrene"
+        }
+    },
+    "Coins":{
+          "1 Euro": {
+              "Diameter": 23.55,
+              "Height": 0,
+              "Center Offset": 0,
+              "Material": "Copper-Nickel"
+          }
+    }
+  }
+  
